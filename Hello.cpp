@@ -3,8 +3,6 @@
 using namespace std;
 
 int main(){
-    int n;
-    cin >> n;
-    cout << "Hello, I am " << n << " years old";
+    cout << "Hello"<< endl;
     return 0;
 }
